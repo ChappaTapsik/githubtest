@@ -12,7 +12,7 @@ quit - to exit""")
     elif write=="start":
         if started:
             print("Car already started")
-
+#hallo
         else:
             print("Car started...ready to go!")
             started=True
